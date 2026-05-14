@@ -1,4 +1,4 @@
-# ankamahjohnson-
+# ankamahjohnson
 <div align="center">
   <img src="https://img.shields.io/badge/One%20Million%20Coders-Participant-brightgreen?style=for-the-badge&logo=flag-ghana" alt="One Million Coders" />
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20in-Ghana-red?style=for-the-badge" alt="Ghana" />
