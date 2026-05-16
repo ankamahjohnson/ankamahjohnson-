@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there, I'm Ankamah Johnson 👋🏿</h1>
 
-<h3 align="center">Aspiring Software Developer | One Million Coders Participant 🇬🇭</h3>
+<h3 align="center">Aspiring Full Stack Software Developer | One Million Coders Participant 🇬🇭</h3>
 
 ---
 
@@ -15,7 +15,7 @@ I'm a passionate tech enthusiast from Ghana currently building my skills through
 
 This national program is equipping me with world-class digital skills to contribute to Ghana’s growing tech ecosystem and Africa’s digital future.
 
-- 🔭 Currently learning: **[Frontend Full-Stack Web Development]**
+- 🔭 Currently learning: **[Frontend Development]**
 - 🌱 Currently working on: [Briefly mention 1-2 projects or what you're building]
 - 🔗 Looking to collaborate on open-source projects that solve real problems in Ghana/Africa 🌍
 - 💌 Reach me at: [mr.ankamahjohnson@gmail.com] or on [Instagram/Twitter]
@@ -30,7 +30,7 @@ This national program is equipping me with world-class digital skills to contrib
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 **Tools & Frameworks**  
-Git • GitHub • React • Node.js • Django/Flask • SQL • etc.
+Git • GitHub • React • Node.js/Express • MongoDB • 
 
 ---
 
